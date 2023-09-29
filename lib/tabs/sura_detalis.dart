@@ -34,7 +34,7 @@ class _suradetalisState extends State<suradetalis> {
         body: Padding(
           padding: const EdgeInsets.all(12.0),
           child: Card(
-            elevation: 12,
+            elevation: 13,
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(18),
               side: BorderSide(
